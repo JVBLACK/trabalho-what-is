@@ -53,11 +53,11 @@ nav{
     text-decoration: none;
     color: aliceblue;
 }
-.counter:hover {
+.counters:hover {
     text-decoration: underline;
 }
 
-.counter {
+.counters {
     text-decoration: none;
     color: aliceblue;
 }
