@@ -110,3 +110,9 @@ h2 {
 .types:hover {
     text-decoration: none;
 }
+
+a{
+    color: aliceblue;
+    text-decoration:none;
+    
+}
