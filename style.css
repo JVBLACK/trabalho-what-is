@@ -1,0 +1,95 @@
+*{
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body{
+    height: 1600px;
+}
+
+
+.logo {
+    max-width:200px;
+    max-height:150px;
+    width: auto;
+    height: auto;
+    padding: 10px;
+}
+
+.topo{
+    background-color: royalblue;
+    display: flex;
+    justify-content: space-around;
+}
+
+.frase{
+    margin-top:70px;
+    color: aliceblue;
+}
+
+nav{
+    padding: 10px;
+    background-color: rgb(22, 68, 204);
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    color: aliceblue;
+    font-size: 20px; 
+}
+
+nav:hover {
+    text-decoration: underline;
+}
+
+u {
+    text-decoration: none;
+}
+
+h1 {
+    margin-top: 120px;
+    margin-bottom: 100px;
+    margin-left: 340px;
+    font-size: 45px;
+}
+
+p{
+    font-size: 20px;
+    margin-left: 340px;
+    margin-right: 360px;
+}
+
+h2 {
+    margin-top: 60px;
+    margin-bottom: 60px;
+    margin-left: 340px;
+    font-size: 35;
+    color: black;
+}
+
+.worker {
+    display:flex;
+    margin-top: 60px;
+    margin-bottom: 60px;
+    margin-left: 640px;
+    max-width:500px;
+    max-height:300px;
+    width: auto;
+    height: auto;
+}
+
+.workertext {
+    display: flex;
+}
+
+.consequencias {
+    margin-bottom: 70px;
+}
+
+.types {
+    font-size: 20px;
+    margin-left: 340px;
+}
+
+.types:hover {
+    text-decoration: none;
+}
