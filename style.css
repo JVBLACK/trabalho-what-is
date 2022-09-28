@@ -37,12 +37,29 @@ nav{
     font-size: 20px; 
 }
 
-nav:hover {
+.what:hover {
     text-decoration: underline;
 }
 
-u {
+.what {
     text-decoration: none;
+    color: aliceblue;
+}
+.datas:hover {
+    text-decoration: underline;
+}
+
+.datas {
+    text-decoration: none;
+    color: aliceblue;
+}
+.counter:hover {
+    text-decoration: underline;
+}
+
+.counter {
+    text-decoration: none;
+    color: aliceblue;
 }
 
 h1 {
